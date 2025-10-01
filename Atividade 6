@@ -1,0 +1,26 @@
+Alunos:
+id_aluno = PK
+nome 
+data_nascimento
+morada
+curso = Fk: Cursos 
+
+Funcionários:
+id_funcionario = PK
+nome
+Departamento 
+Telefone 
+
+Professores:
+id_professor = PK
+id_funcionario = CK
+nome
+especialidade
+Telefone 
+email 
+
+Cursos:
+id_curso = PK
+nome
+disciplina 
+carga-horaria 

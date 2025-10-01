@@ -1,0 +1,33 @@
+Primary key (PK): Alunos
+Nome
+id do Aluno
+idade
+curso 
+Morada
+e-mail 
+
+
+Primary key (PK): Professores
+
+Nome 
+Disciplina 
+Morada
+Idade 
+Número 
+e-mail 
+
+Primary key (PK): Cursos
+
+ID de Curso
+Nome
+contato
+Diretor do curso 
+
+Primary key (PK): Funcionários 
+
+Nome 
+contato
+idade 
+e-mail 
+Morada
+
